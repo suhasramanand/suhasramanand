@@ -9,7 +9,7 @@
 - 🔭 Currently working on a Community Management System and machine learning models for CKD prediction.  
   
 
-- 🌱  Learning Kubernetes and advanced data engineering.  
+- 🌱  Currently learning about LLMs and deepening my knowledge in AI.  
   
 
 - ❓ Ask me about Python, TypeScript, React, AWS, Azure, and SQL.  
