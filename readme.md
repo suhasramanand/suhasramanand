@@ -6,7 +6,7 @@
 ### <div align="center">I'm Suhas, a full-stack and DevOps engineer 💻 from Northeastern University. I've been building scalable systems and working with cloud platforms since 2020.</div>  
   
 
-- 🔭 Currently working on a Community Management System and machine learning models for CKD prediction.  
+- 🔭 Currently working on a CodeReviewer.AI.  
   
 
 - 🌱  Currently learning about LLMs and deepening my knowledge in AI.  
