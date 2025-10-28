@@ -2,11 +2,30 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">I'm Suhas, a full-stack and DevOps engineer 💻 from Northeastern University. I've been building scalable systems and working with cloud platforms since 2020.</div>  
+<div align="center">
+  <h3>🚀 Building Production-Grade AI Systems & Scalable Infrastructure</h3>
+  <p>
+    I'm Suhas, a <strong>Full-Stack & DevOps Engineer</strong> from Northeastern University, passionate about crafting <strong>robust, scalable systems</strong> that power real-world applications.
+  </p>
+  <p>
+    From deploying <strong>GenAI applications with RAG</strong> to architecting <strong>Kubernetes-based distributed systems</strong>, I turn complex engineering challenges into elegant solutions. With expertise spanning <strong>cloud infrastructure</strong> (AWS, GCP, Azure), <strong>modern web technologies</strong>, and <strong>AI/ML pipelines</strong>.
+  </p>
+</div>
 
-- 🔭 Currently working on Enterprise Risk Management systems and GenAI-powered solutions
-- 🌱 Learning about LLMs, building production-grade GenAI applications with RAG
-- ❓ Ask me about Python, TypeScript, React, AWS, Kubernetes, LLMs, and distributed systems
+<div align="center">
+  
+### 💼 What I'm Up To
+
+- 🔬 **Engineering** Enterprise Risk Management systems with GenAI integration
+- 🎯 **Crafting** Production-grade GenAI applications with Retrieval-Augmented Generation (RAG)
+- 🚀 **Deploying** Microservices and distributed systems on Kubernetes and cloud platforms
+- 📊 **Optimizing** Performance and reliability through observability and automation
+
+### 🌟 Tech Expert
+
+Ask me about: **Python** 🐍 | **TypeScript** 📘 | **React** ⚛️ | **AWS** ☁️ | **Kubernetes** ☸️ | **LLMs** 🤖 | **Distributed Systems** 🔄 | **Terraform** 🏗️ | **FastAPI** ⚡ | **PostgreSQL** 🐘
+
+</div>
 
 <br/>  
 
