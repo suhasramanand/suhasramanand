@@ -14,58 +14,67 @@
 
 ### GenAI & Machine Learning
 
-#### [GenAI SupportBot - Production-Ready RAG Chatbot](https://github.com/suhasramanand/GenAI-SupportBot)
-Production-ready AI customer support chatbot with RAG capabilities
-- **Tech Stack**: FastAPI, React, Groq LLM, ChromaDB, Prometheus
-- **Features**: Real-time streaming, monitoring, responsible AI practices
-- **Deployment**: Docker, Kubernetes, Terraform, GitHub Actions CI/CD
-- Monitors response time SLA (<2s), accuracy (85%+), availability (99.9%)
+#### [CodeReviewer.AI](https://github.com/suhasramanand/CodeReviewer.AI)
+Automated pull request review bot that leverages AI to analyze and provide suggestions on code changes
+- **Tech**: Groq LLM, GitHub Actions
+- **Features**: Automated code review, AI-powered suggestions, PR comments
+- **Deployment**: GitHub Bot integration
 
-#### [LLM Fine-Tuning for Customer Support](https://github.com/suhasramanand/llm-finetuning-project)
-Fine-tuned GPT-2 model for Twitter customer support conversations
-- **Achievements**: 49% perplexity reduction, deployed to Hugging Face
-- **Model**: [suhasramanand/customer-support-gpt2](https://huggingface.co/suhasramanand/customer-support-gpt2)
-- **Results**: BLEU 0.0580, ROUGE-L 0.1410, BERTScore 0.7536
+#### [EvalStack](https://github.com/suhasramanand/evalstack)
+Production-grade platform for evaluating, observing, and optimizing Generative AI pipelines (LLMs, RAG, Agents)
+- **Tech**: Python, FastAPI, Vector DBs
+- **Features**: AI pipeline evaluation, performance monitoring, optimization tools
+
+#### [Art-Tech Knowledge Miner](https://github.com/suhasramanand/art-tech-knowledge-miner)
+AI-driven miner for art-technology intersections and cultural-technical patterns
+- **Tech**: Python, Web Scraping, AI
+- **Features**: Trend analysis, knowledge extraction, pattern recognition
 
 ### DevOps & Infrastructure
 
 #### [Predictive Reliability & Auto-Remediation Platform](https://github.com/suhasramanand/predictive-reliability-platform)
 SRE platform with ML-based anomaly detection and automated remediation
+- **Tech**: Python, FastAPI, React, TypeScript, Docker Compose
 - **Architecture**: Microservices, Prometheus, Grafana, Jaeger, Loki
 - **Features**: Real-time anomaly detection, policy-driven auto-remediation, AI-powered RCA
-- **Tech**: Python, FastAPI, React, TypeScript, Docker Compose
 
 #### [MiniGCS - Distributed Object Storage](https://github.com/suhasramanand/minigcs)
 Distributed storage system with erasure coding and multi-region replication
-- **Tech**: Reed-Solomon erasure coding (k=2, m=1), FastAPI
+- **Tech**: Python, FastAPI, Reed-Solomon erasure coding
 - **Features**: Node failure recovery, shard repair, metrics collection
 - **Performance**: 1000+ objects processed with 100% success rate
 
-#### [Cloud-Native WebApp](https://github.com/suhasramanand/webapp)
-Production-grade REST API with AWS infrastructure
-- **Stack**: Node.js, Express, PostgreSQL, Prisma, AWS RDS, S3
-- **Features**: User auth, product management, image upload, CloudWatch monitoring
-- **Infrastructure**: Terraform, Packer AMIs, Route53 DNS, GitHub Actions
+#### [Scalable Infrastructure Deployment](https://github.com/suhasramanand/scalable-infrastructure-deployment)
+Scalable infrastructure with Terraform, Kubernetes (AWS EKS), and CI/CD pipelines
+- **Tech**: Terraform, Kubernetes, AWS EKS, CI/CD
+- **Features**: Infrastructure as Code, microservices architecture
 
-### Full-Stack & Automation
+#### [Streaming Analytics Platform](https://github.com/suhasramanand/streaming-analytics-platform)
+End-to-end real-time streaming analytics platform with Kafka, Spark, Trino, and Iceberg
+- **Tech**: Kafka, Spark, Trino, Iceberg, Kubernetes
+- **Features**: Real-time processing, data lake integration, K8s deployment
 
-#### [Job Aggregator](https://github.com/suhasramanand/jobhunt) - [Live Demo](https://suhasramanand.github.io/jobhunt)
-Automated job scraper for entry-level SWE positions with visa sponsorship
+### Full-Stack & Data
+
+#### [Job Hunt](https://github.com/suhasramanand/jobhunt) - [Live Demo](https://suhasramanand.github.io/jobhunt)
+Automated job aggregator for entry-level software engineering positions with visa sponsorship
 - **Tech**: Python, Playwright, React, Tailwind CSS
-- **Automation**: GitHub Actions runs every 2 hours
-- **Features**: Smart filtering, visa sponsorship detection, responsive UI
+- **Features**: Smart filtering, visa sponsorship detection, GitHub Actions automation
 
 #### [Distributed Query Engine on Kubernetes](https://github.com/suhasramanand/distributed-query-engine-reliability)
-Deploy and benchmark Presto/Trino, ClickHouse, Spark on K8s
-- **Scale**: 10TB+ analytical workloads
-- **Monitoring**: Prometheus, Grafana, ELK stack
+Reliability testing framework for distributed query engines with fault injection
+- **Tech**: Presto/Trino, ClickHouse, Spark, Kubernetes
 - **Features**: Fault tolerance, chaos engineering, performance optimization
 
-#### [TMWork Automation](https://github.com/suhasramanand/tmwork-automation)
-Automated shift scheduling with calendar integration
-- **Tech**: Python, Selenium, iCal generation
-- **Features**: Automated scraping, calendar events with notifications
-- **Deployment**: GitHub Actions cron jobs, cross-platform notifications
+#### [High-Performance Cache](https://github.com/suhasramanand/high-performance-cache)
+High-Performance C++ caching system with LRU eviction, custom memory allocator, multi-threaded TCP server
+- **Tech**: C++, TCP networking, custom allocators
+- **Features**: LRU eviction, multi-threading, performance optimization
+
+#### [Enterprise Risk Management](https://github.com/suhasramanand/enterprise-risk-management)
+Enterprise-grade risk management system
+- **Tech**: Full-stack, Risk Analysis
+- **Features**: Risk assessment, mitigation strategies
 
 <br/>
 
