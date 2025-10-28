@@ -3,7 +3,7 @@
 </div>  
 
 <div align="center">
-  <h3>🚀 Building Production-Grade AI Systems & Scalable Infrastructure</h3>
+  <h3>Building Production-Grade AI Systems & Scalable Infrastructure</h3>
   <p>
     I'm Suhas, a <strong>Full-Stack & DevOps Engineer</strong> from Northeastern University, passionate about crafting <strong>robust, scalable systems</strong> that power real-world applications.
   </p>
@@ -14,22 +14,22 @@
 
 <div align="center">
   
-### 💼 What I'm Up To
+### What I'm Up To
 
-- 🔬 **Engineering** Enterprise Risk Management systems with GenAI integration
-- 🎯 **Crafting** Production-grade GenAI applications with Retrieval-Augmented Generation (RAG)
-- 🚀 **Deploying** Microservices and distributed systems on Kubernetes and cloud platforms
-- 📊 **Optimizing** Performance and reliability through observability and automation
+- **Engineering** Enterprise Risk Management systems with GenAI integration
+- **Crafting** Production-grade GenAI applications with Retrieval-Augmented Generation (RAG)
+- **Deploying** Microservices and distributed systems on Kubernetes and cloud platforms
+- **Optimizing** Performance and reliability through observability and automation
 
-### 🌟 Tech Expert
+### Tech Expert
 
-Ask me about: **Python** 🐍 | **TypeScript** 📘 | **React** ⚛️ | **AWS** ☁️ | **Kubernetes** ☸️ | **LLMs** 🤖 | **Distributed Systems** 🔄 | **Terraform** 🏗️ | **FastAPI** ⚡ | **PostgreSQL** 🐘
+Ask me about: **Python** | **TypeScript** | **React** | **AWS** | **Kubernetes** | **LLMs** | **Distributed Systems** | **Terraform** | **FastAPI** | **PostgreSQL** 
 
 </div>
 
 <br/>  
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### GenAI & Machine Learning
 
